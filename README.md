@@ -9,10 +9,10 @@
 
 ### 🎮 Mô Tả  
 
-**Chroma Hunter** là một trò chơi bắn quái vật arcade lấy cảm hứng từ *Chicken Invaders*, nhưng với yếu tố pha trộn màu sắc độc đáo. Người chơi sẽ vào vai một **pháp sư màu sắc**, sử dụng các loại đạn có màu khác nhau để tấn công quái vật.  
+**Chroma Hunter** là một trò chơi tiêu diệt quái vật arcade , nhưng với yếu tố pha trộn màu sắc độc đáo. Người chơi sẽ vào vai một **Samurai**, sử dụng các loại vũ khí có màu khác nhau để tấn công quái vật.  
 
 📌 **Cơ chế chính:**  
-- Khi quái vật bị bắn trúng, chúng sẽ **thay đổi màu sắc**.  
+- Khi quái vật bị chém trúng, chúng sẽ **thay đổi màu sắc**.  
 - Mục tiêu là làm cho màu của quái vật **khớp với màu mục tiêu** để tiêu diệt chúng.  
 - Hệ thống vật lý và màu sắc mang đến trải nghiệm gameplay độc đáo, thử thách khả năng phản xạ và tư duy chiến thuật của người chơi.  
 
